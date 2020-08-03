@@ -6,10 +6,3 @@
 .text2 {
     src: url("https://www.w3schools.com/html/html_id.asp");
 }
-
-#myHeader {
-    background-color: lightblue;
-    color: black;
-    padding: 40px;
-    text-align: center;
-}

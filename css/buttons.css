@@ -3,3 +3,10 @@
     background-color: crimson;
     color: gold;
 }
+
+.TypeButton2 {
+    color: indianred;
+    background-color: lime;
+    border: mediumseagreen;
+    border-radius: 50;
+}
